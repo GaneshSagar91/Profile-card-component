@@ -76,3 +76,9 @@ hr{
   font-size: 14px;
   font-weight: 500;
 }
+
+@media screen and (max-width: 481px) {
+  section.card{
+    width: 90%;
+  }
+}
